@@ -1,6 +1,5 @@
-================================================================== Human
-Activity Recognition Using Smartphones Dataset Updated Version Coursera
-project for Getting and Cleaning Data course
+Human Activity Recognition Using Smartphones Dataset Updated Version
+Coursera project for Getting and Cleaning Data course
 ==================================================================
 Vladas Alesius
 ==================================================================
